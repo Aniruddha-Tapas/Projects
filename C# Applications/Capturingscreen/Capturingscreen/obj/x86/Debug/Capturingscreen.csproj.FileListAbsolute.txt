@@ -1,0 +1,11 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\Capturingscreen\Capturingscreen\bin\Debug\Capturingscreen.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Capturingscreen\Capturingscreen\bin\Debug\Capturingscreen.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\Capturingscreen\Capturingscreen\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\Capturingscreen\Capturingscreen\obj\x86\Debug\Capturingscreen.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Capturingscreen\Capturingscreen\obj\x86\Debug\Capturingscreen.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Capturingscreen\Capturingscreen\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Capturingscreen\Capturingscreen\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Capturingscreen\Capturingscreen\obj\x86\Debug\Capturingscreen.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Capturingscreen\Capturingscreen\obj\x86\Debug\Capturingscreen.pdb
+C:\Users\ANIRUDDHA\Desktop\Projects\C#Applications\Projects\Capturingscreen\Capturingscreen\obj\x86\Debug\Capturingscreen.exe
+C:\Users\ANIRUDDHA\Desktop\Projects\C#Applications\Projects\Capturingscreen\Capturingscreen\obj\x86\Debug\Capturingscreen.pdb

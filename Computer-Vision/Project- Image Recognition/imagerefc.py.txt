@@ -1,0 +1,8 @@
+from PIL import Image
+import numpy as np
+
+# Open the dot image
+i = Image.open('images/dot.png')
+
+# Spit out array that corresponds to our image
+iar = np.asarray(i)

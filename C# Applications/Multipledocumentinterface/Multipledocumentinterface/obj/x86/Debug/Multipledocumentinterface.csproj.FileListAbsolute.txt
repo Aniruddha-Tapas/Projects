@@ -1,0 +1,9 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\Multipledocumentinterface\Multipledocumentinterface\bin\Debug\Multipledocumentinterface.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Multipledocumentinterface\Multipledocumentinterface\bin\Debug\Multipledocumentinterface.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\Multipledocumentinterface\Multipledocumentinterface\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\Multipledocumentinterface\Multipledocumentinterface\obj\x86\Debug\Multipledocumentinterface.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Multipledocumentinterface\Multipledocumentinterface\obj\x86\Debug\Multipledocumentinterface.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Multipledocumentinterface\Multipledocumentinterface\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Multipledocumentinterface\Multipledocumentinterface\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Multipledocumentinterface\Multipledocumentinterface\obj\x86\Debug\Multipledocumentinterface.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Multipledocumentinterface\Multipledocumentinterface\obj\x86\Debug\Multipledocumentinterface.pdb

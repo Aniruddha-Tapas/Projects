@@ -1,0 +1,2 @@
+MazeSolver.Main
+MazeSolver.App

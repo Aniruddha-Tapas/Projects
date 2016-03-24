@@ -1,0 +1,9 @@
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Form1.resources
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\EmailSender.exe
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\EmailSender\EmailSender\obj\x86\Debug\EmailSender.pdb

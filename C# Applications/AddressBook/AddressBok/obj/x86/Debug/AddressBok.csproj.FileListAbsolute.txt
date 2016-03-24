@@ -1,0 +1,11 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\AddressBok\AddressBok\bin\Debug\AddressBok.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\AddressBok\AddressBok\bin\Debug\AddressBok.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\AddressBok\AddressBok\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\AddressBok\AddressBok\obj\x86\Debug\AddressBok.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\AddressBok\AddressBok\obj\x86\Debug\AddressBok.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\AddressBok\AddressBok\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\AddressBok\AddressBok\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\AddressBok\AddressBok\obj\x86\Debug\AddressBok.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\AddressBok\AddressBok\obj\x86\Debug\AddressBok.pdb
+C:\Users\ANIRUDDHA\Desktop\Projects\C#Applications\Projects\AddressBok\AddressBok\obj\x86\Debug\AddressBok.exe
+C:\Users\ANIRUDDHA\Desktop\Projects\C#Applications\Projects\AddressBok\AddressBok\obj\x86\Debug\AddressBok.pdb

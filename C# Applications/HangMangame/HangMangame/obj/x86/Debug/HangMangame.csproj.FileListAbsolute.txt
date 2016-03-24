@@ -1,0 +1,9 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\HangMangame\HangMangame\bin\Debug\HangMangame.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\HangMangame\HangMangame\bin\Debug\HangMangame.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\HangMangame\HangMangame\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\HangMangame\HangMangame\obj\x86\Debug\HangMangame.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\HangMangame\HangMangame\obj\x86\Debug\HangMangame.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\HangMangame\HangMangame\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\HangMangame\HangMangame\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\HangMangame\HangMangame\obj\x86\Debug\HangMangame.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\HangMangame\HangMangame\obj\x86\Debug\HangMangame.pdb
